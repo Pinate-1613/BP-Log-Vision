@@ -1,0 +1,8 @@
+{
+  "name": "BP Log Vision",
+  "description": "An application to capture, analyze, and log blood pressure readings from a meter using your device's camera and AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
